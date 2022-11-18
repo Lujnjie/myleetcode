@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Solution44444",
+            "request": "launch",
+            "mainClass": "Solution44444",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution2222",
+            "request": "launch",
+            "mainClass": "Solution2222",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution3",
+            "request": "launch",
+            "mainClass": "Solution3",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution1894",
+            "request": "launch",
+            "mainClass": "Solution1894",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution34",
+            "request": "launch",
+            "mainClass": "Solution34",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution111",
+            "request": "launch",
+            "mainClass": "Solution111",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution704",
+            "request": "launch",
+            "mainClass": "Solution704",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSolutiont",
+            "request": "launch",
+            "mainClass": "TestSolutiont",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolutiontTest",
+            "request": "launch",
+            "mainClass": "SolutiontTest",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolutionTest",
+            "request": "launch",
+            "mainClass": "SolutionTest",
+            "projectName": "leetcode_380d98a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
